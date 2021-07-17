@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="https://mithesh14.github.io/Launch-countdown-timer-main/">Launch Countdown timer</a>
+- Solution URL: <a href="https://mithesh14.github.io/Interactive-pricing-component/">Interactive pricing component</a>
 
 ## My process
 
